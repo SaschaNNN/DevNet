@@ -1,0 +1,2 @@
+# DevNet
+Useful automatization scripts
